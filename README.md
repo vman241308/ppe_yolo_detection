@@ -12,7 +12,7 @@
 
 Add `is_cuda` argument for running on CUDA.
 
-YOLO Multiple Object Detecting
+YOLO Multiple Object Detecting for PPE
 
 ```bash
 python main_YOLO.py
